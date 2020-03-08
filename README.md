@@ -23,6 +23,7 @@ function minimumBribes(queue) {
 ```
 
 Here is how the logic will play out. Keep track of i and j.
+
 i = 0
 q = 1, 2, 5, 3, 7, 8, 6, 4
 j = queue[i] — 2
