@@ -1,6 +1,7 @@
 # new-year-chaos
 HackerRank Challenge - Javascript
 
+```
 function minimumBribes(queue) {
      let chaotic = false
      let bribes = 0
@@ -16,3 +17,4 @@ function minimumBribes(queue) {
      console.log(bribes)
      }
 }
+```
