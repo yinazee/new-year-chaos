@@ -1,6 +1,9 @@
 # new-year-chaos
 HackerRank Challenge - Javascript
 
+……………q = [1 2 5 3 7 8 6 4]
+original order = 1 2 3 4 5 6 7 8
+
 ```
 function minimumBribes(queue) {
      let chaotic = false
@@ -18,3 +21,5 @@ function minimumBribes(queue) {
      }
 }
 ```
+
+
